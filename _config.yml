@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://badpanda.github.io
+title: uncategorized
+tagline: randomized
+description: A compilation of random excerpts from a life of yours truly.
+paginate: 5
